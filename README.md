@@ -1,0 +1,1 @@
+This is python file that act as a shortcut to run overall command of django-admin.
